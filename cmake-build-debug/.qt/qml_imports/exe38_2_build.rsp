@@ -1,9 +1,0 @@
--rootPath
-C:/develop/Qt_projects/exe38_2
--cmake-output
--output-file
-C:/develop/Qt_projects/exe38_2/cmake-build-debug/.qt/qml_imports/exe38_2_build.cmake
--importPath
-C:/develop/Qt_projects/exe38_2/cmake-build-debug
--importPath
-C:/QT/6.9.1/msvc2022_64/qml

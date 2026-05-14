@@ -1,0 +1,11 @@
+# Qt / build
+build/
+cmake-build-*/
+*.user
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
