@@ -1,0 +1,10 @@
+# ninja log v6
+15	112	8004676365541584	.qt/qml_imports/exe38_2_build.cmake	5a4021ba7078b579
+15	112	8004676365541584	C:/develop/Qt_projects/exe38_2/cmake-build-debug/.qt/qml_imports/exe38_2_build.cmake	5a4021ba7078b579
+113	1173	8004676375488934	exe38_2_autogen/timestamp	54f7adb76e5cbc6
+113	1173	8004676375488934	exe38_2_autogen/mocs_compilation.cpp	54f7adb76e5cbc6
+113	1173	8004676375488934	C:/develop/Qt_projects/exe38_2/cmake-build-debug/exe38_2_autogen/timestamp	54f7adb76e5cbc6
+113	1173	8004676375488934	C:/develop/Qt_projects/exe38_2/cmake-build-debug/exe38_2_autogen/mocs_compilation.cpp	54f7adb76e5cbc6
+1178	5010	8004676376256437	CMakeFiles/exe38_2.dir/mainwindow.cpp.obj	8d1702cd5894df53
+1175	5020	8004676376235970	CMakeFiles/exe38_2.dir/main.cpp.obj	1590f68625629703
+1173	5058	8004676376215969	CMakeFiles/exe38_2.dir/exe38_2_autogen/mocs_compilation.cpp.obj	c5be4f8c75100590
